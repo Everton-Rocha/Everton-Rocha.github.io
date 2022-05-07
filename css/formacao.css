@@ -37,7 +37,7 @@
   display: block;
   width: 130px;
   height: 100px;
-  background: url("../imagens/0709-formacao-css/portfolio/img/detalhe.svg") no-repeat center;
+  background: url("../imagens/detalhe.svg") no-repeat center;
   position: absolute;
   bottom: -50px;
   left: 20px;
@@ -106,12 +106,12 @@
 }
 
 .cursos h3::before {
-  background: url("../imagens/0708-formacao-html/portfolio/img/cursos.svg")
+  background: url("../imagens/cursos.svg")
     no-repeat center center;
 }
 
 .idiomas h3::before {
-  background: url("../imagens/0708-formacao-html/portfolio/img/idiomas.svg")
+  background: url("../imagens/idiomas.svg")
     no-repeat center center;
 }
 
